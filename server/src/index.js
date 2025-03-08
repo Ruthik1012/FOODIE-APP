@@ -21,4 +21,4 @@ mongoose.connect(
     console.log("DB connected...")
   )
 
-app.listen(3001, () => console.log("Server started"));
+app.listen(3008, () => console.log("Server started"));
